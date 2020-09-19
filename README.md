@@ -1,7 +1,7 @@
 ### 09-19-2020
 Include the date you created this project and README file.
 
-### Bikeshare Analytics
+### US Bikeshare Analytics Program
 Replace the Project Title
 
 ### Analyzing US bikeshare data for the cities New York City, Washington and Chicago
