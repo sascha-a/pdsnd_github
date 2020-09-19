@@ -33,7 +33,7 @@ def get_filters():
                 break
 
     while True:
-        day = input("Enter the weekday you would like to analyze. (Monday - Sunday, or enter 'all' for the whole week): ").lower()
+        day = input("Enter the day of the week you would like to analyze. (Monday - Sunday, or enter 'all' for the whole week): ").lower()
         if day not in ('all', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'sunday'):
             print("\nOoops. That is not a weekday.\n")
             print("Please enter a weekday.\n")
