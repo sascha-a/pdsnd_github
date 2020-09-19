@@ -21,7 +21,6 @@ def get_filters():
     while True:
         city = input("Enter the name of the city you want to explore the bikeshare data from: ").lower()
         if city not in ('chicago', 'new york city', 'washington'):
-            print("\nOoops. That is not a valid city name.\n")
             print("Please enter a valid city name.\n")
         else:
             break
@@ -29,7 +28,6 @@ def get_filters():
     while True:
             month = input("Enter the month you would like to analyze. (January - June, or enter 'all' for all month with existing data): ").lower()
             if month not in ('all', 'january', 'february', 'march', 'april', 'may', 'june'):
-                print("\nOoops. That is not a valid month.\n")
                 print("Please enter a valid month.\n")
             else:
                 break
