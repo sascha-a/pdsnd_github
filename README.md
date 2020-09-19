@@ -4,7 +4,7 @@ Include the date you created this project and README file.
 ### Bikeshare Analytics
 Replace the Project Title
 
-### Description
+### Analyzing US bikeshare data for the cities New York City, Washington and Chicago
 Describe what your project is about and what it does
 
 ### bikeshare.py, chicago.csv, new_york_city.csv, washington.csv
